@@ -1,0 +1,1 @@
+print("jb loves her, she is very strong mentally and mature")
